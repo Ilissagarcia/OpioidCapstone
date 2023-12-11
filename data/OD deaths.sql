@@ -48,10 +48,27 @@ JOIN drugod ON pop_un_in.year = drugod.year
 GROUP BY pop_un_in.location, pop_un_in.year, drugod.Any_Opioid
 ORDER BY pop_un_in.year DESC;
 
+SELECT DISTINCT pop_un_in.location, pop_un_in.year, drugod.Any_Opioid
+FROM pop_un_in
+JOIN drugod ON pop_un_in.year = drugod.year
+GROUP BY pop_un_in.location, pop_un_in.year, drugod.Any_Opioid
+ORDER BY pop_un_in.year DESC;
 
+
+
+SELECT "Any_Opioid"
+FROM drugod;
+
+SELECT totaldrugdeaths, fentanyldeaths,
+mentalhealthdiagdeaths, homelessdeaths, year, location
+FROM combodrugs;
 
 SELECT *
-FROM drugod
+FROM combodrugs
+
+
+
+
 
 
 
