@@ -1,12 +1,2071 @@
-﻿Year,  Male,  Female,  Total Overdose Deaths, Any Opioid, Synthetic Opioids(primarily fentanyl), Stimulants WITHOUT Synthetic Opioids, Cocaine, Stimulants AND Any Opioid,Heroin, Benzodiazepines, Benzodiazepines AND Any Opioid, Cocaine AND Any Opioid, Cocaine WITHOUT Synthetic Opioids, Stimulants AND Synthetic Opioids, Cocaine AND Synthetic Opioids,Heroin AND Synthetic Opioids,Antidepressants AND Any Opioid, Prescription Opioids AND Synthetic Opioids other than Methadone,Benzodiazepines AND Synthetic Opioids,Grand Total
-2011,101926,60339,41340,22784,2666,6491,4681,3255,4397,6872,5826,2505,4492,274,189,44,2501,889,665,346500
-2012,102279,60853,41502,23166,2628,6618,4404,3340,5925,6524,5500,2448,4222,261,182,69,2536,861,655,347830
-2013,113733,66060,43982,25052,3105,7965,4944,4037,8257,6973,5869,2831,4699,373,245,209,2763,1015,804,382448
-2014,128254,73948,47055,28647,5544,8526,5415,4999,10574,7945,6733,3414,4787,869,628,1027,2983,1489,1222,429830
-2015,152938,83259,52404,33091,9580,10153,6784,6594,12989,8791,7485,4506,5242,1969,1542,2685,3062,2263,1801,499764
-2016,204243,101096,63632,42249,19413,12229,10375,10222,15469,10684,9233,7263,6191,5029,4184,5781,2960,4055,3308,641670
-2017,241520,117206,70237,47600,28466,13877,13942,14455,15482,11537,10010,10131,6701,9262,7241,8091,3301,5444,4869,751064
-2018,245011,117253,67367,46802,31335,14361,14666,16165,14996,10724,9140,10887,6007,11516,8659,9068,3019,5417,5066,756104
-2019,265860,120983,70630,49860,36359,15604,15883,19192,14019,9711,8301,11998,5744,14627,10139,8746,3151,5876,5187,803458
-2020,352053,151815,91799,68630,56516,16861,19447,27966,13165,12290,10771,15338,5544,23782,13903,8990,3611,8626,7983,1043510
-2021,417370,181744,106699,80411,70601,19066,24486,37682,9173,12499,10992,19250,6333,34429,18153,6783,3767,9644,8759,1234944
+Category,Year,Deaths
+  Total Overdose Deaths,1999,16849
+  Female,1999,5591
+  Male,1999,11258
+ Any Opioid,1999,8050
+  Female,1999,2057
+  Male,1999,5993
+ Prescription Opioids,1999,3442
+  Female,1999,1022
+  Male,1999,2420
+ Prescription Opioids AND Synthetic Opioids other than Methadone,1999,142
+  Female,1999,65
+  Male,1999,77
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,1999,3300
+  Female,1999,957
+  Male,1999,2343
+ Synthetic Opioids(primarily fentanyl),1999,730
+  Female,1999,330
+  Male,1999,400
+Heroin,1999,1960
+  Female,1999,306
+  Male,1999,1654
+Heroin AND Synthetic Opioids,1999,15
+  Female,1999,4
+  Male,1999,11
+Heroin WITHOUT Synthetic Opioids,1999,1945
+  Female,1999,302
+  Male,1999,1643
+Stimulants,1999,4271
+  Female,1999,980
+  Male,1999,3291
+ Stimulants AND Any Opioid,1999,2101
+  Female,1999,433
+  Male,1999,1668
+ Stimulants WITHOUT Any Opioid,1999,2170
+  Female,1999,547
+  Male,1999,1623
+ Stimulants AND Synthetic Opioids,1999,58
+  Female,1999,16
+  Male,1999,42
+ Stimulants WITHOUT Synthetic Opioids,1999,4213
+  Female,1999,964
+  Male,1999,3249
+ Cocaine,1999,3822
+  Female,1999,850
+  Male,1999,2972
+ Cocaine AND Any Opioid,1999,1964
+  Female,1999,399
+  Male,1999,1565
+ Cocaine WITHOUT Any Opioid,1999,1858
+  Female,1999,451
+  Male,1999,1407
+ Cocaine AND Synthetic Opioids,1999,47
+  Female,1999,13
+  Male,1999,34
+ Cocaine WITHOUT Synthetic Opioids,1999,3775
+  Female,1999,837
+  Male,1999,2938
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,1999,11
+  Female,1999,3
+  Male,1999,8
+ Benzodiazepines,1999,1135
+Female ,1999,420
+Male,1999,715
+ Benzodiazepines AND Any Opioid,1999,701
+  Female,1999,233
+  Male,1999,468
+ Benzodiazepines WITHOUT Any Opioid,1999,434
+  Female,1999,187
+  Male,1999,247
+Benzodiazepines AND Synthetic Opioids,1999,122
+  Female,1999,51
+  Male,1999,71
+Benzodiazepines WITHOUT Synthetic Opioids,1999,1013
+  Female,1999,369
+  Male,1999,644
+Antidepressants,1999,1749
+Female ,1999,926
+Male,1999,823
+Antidepressants AND Any Opioid,1999,611
+  Female,1999,312
+  Male,1999,299
+Antidepressants WITHOUT Any Opioid,1999,1138
+  Female,1999,614
+  Male,1999,524
+Antidepressants AND Synthetic Opioids,1999,122
+  Female,1999,61
+  Male,1999,61
+Antidepressants WITHOUT Synthetic Opioids,1999,1627
+  Female,1999,865
+  Male,1999,762
+  Total Overdose Deaths,2000,17415
+  Female,2000,5852
+  Male,2000,11563
+ Any Opioid,2000,8407
+  Female,2000,2264
+  Male,2000,6143
+ Prescription Opioids,2000,3785
+  Female,2000,1236
+  Male,2000,2549
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2000,167
+  Female,2000,76
+  Male,2000,91
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2000,3618
+  Female,2000,1160
+  Male,2000,2458
+ Synthetic Opioids(primarily fentanyl),2000,782
+  Female,2000,374
+  Male,2000,408
+Heroin,2000,1842
+  Female,2000,279
+  Male,2000,1563
+Heroin AND Synthetic Opioids,2000,18
+  Female,2000,7
+  Male,2000,11
+Heroin WITHOUT Synthetic Opioids,2000,1824
+  Female,2000,272
+  Male,2000,1552
+Stimulants,2000,4017
+  Female,2000,980
+  Male,2000,3037
+ Stimulants AND Any Opioid,2000,1972
+  Female,2000,422
+  Male,2000,1550
+ Stimulants WITHOUT Any Opioid,2000,2045
+  Female,2000,558
+  Male,2000,1487
+ Stimulants AND Synthetic Opioids,2000,51
+  Female,2000,15
+  Male,2000,36
+ Stimulants WITHOUT Synthetic Opioids,2000,3966
+  Female,2000,965
+  Male,2000,3001
+ Cocaine,2000,3544
+  Female,2000,843
+  Male,2000,2701
+ Cocaine AND Any Opioid,2000,1834
+  Female,2000,387
+  Male,2000,1447
+ Cocaine WITHOUT Any Opioid,2000,1710
+  Female,2000,456
+  Male,2000,1254
+ Cocaine AND Synthetic Opioids,2000,46
+  Female,2000,13
+  Male,2000,33
+ Cocaine WITHOUT Synthetic Opioids,2000,3498
+  Female,2000,830
+  Male,2000,2668
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2000,7
+  Female,2000,3
+  Male,2000,4
+ Benzodiazepines,2000,1298
+Female ,2000,480
+Male,2000,818
+ Benzodiazepines AND Any Opioid,2000,892
+  Female,2000,310
+  Male,2000,582
+ Benzodiazepines WITHOUT Any Opioid,2000,406
+  Female,2000,170
+  Male,2000,236
+Benzodiazepines AND Synthetic Opioids,2000,136
+  Female,2000,55
+  Male,2000,81
+Benzodiazepines WITHOUT Synthetic Opioids,2000,1162
+  Female,2000,425
+  Male,2000,737
+Antidepressants,2000,1798
+Female ,2000,984
+Male,2000,814
+Antidepressants AND Any Opioid,2000,679
+  Female,2000,387
+  Male,2000,292
+Antidepressants WITHOUT Any Opioid,2000,1119
+  Female,2000,597
+  Male,2000,522
+Antidepressants AND Synthetic Opioids,2000,123
+  Female,2000,77
+  Male,2000,46
+Antidepressants WITHOUT Synthetic Opioids,2000,1675
+  Female,2000,907
+  Male,2000,768
+  Total Overdose Deaths,2001,19394
+  Female,2001,6736
+  Male,2001,12658
+ Any Opioid,2001,9496
+  Female,2001,2767
+  Male,2001,6729
+ Prescription Opioids,2001,4770
+  Female,2001,1608
+  Male,2001,3162
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2001,199
+  Female,2001,86
+  Male,2001,113
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2001,4571
+  Female,2001,1522
+  Male,2001,3049
+ Synthetic Opioids(primarily fentanyl),2001,957
+  Female,2001,447
+  Male,2001,510
+Heroin,2001,1779
+  Female,2001,313
+  Male,2001,1466
+Heroin AND Synthetic Opioids,2001,15
+  Female,2001,4
+  Male,2001,11
+Heroin WITHOUT Synthetic Opioids,2001,1764
+  Female,2001,309
+  Male,2001,1455
+Stimulants,2001,4308
+  Female,2001,1083
+  Male,2001,3225
+ Stimulants AND Any Opioid,2001,1996
+  Female,2001,480
+  Male,2001,1516
+ Stimulants WITHOUT Any Opioid,2001,2312
+  Female,2001,603
+  Male,2001,1709
+ Stimulants AND Synthetic Opioids,2001,80
+  Female,2001,28
+  Male,2001,52
+ Stimulants WITHOUT Synthetic Opioids,2001,4228
+  Female,2001,1055
+  Male,2001,3173
+ Cocaine,2001,3833
+  Female,2001,957
+  Male,2001,2876
+ Cocaine AND Any Opioid,2001,1886
+  Female,2001,453
+  Male,2001,1433
+ Cocaine WITHOUT Any Opioid,2001,1947
+  Female,2001,504
+  Male,2001,1443
+ Cocaine AND Synthetic Opioids,2001,75
+  Female,2001,25
+  Male,2001,50
+ Cocaine WITHOUT Synthetic Opioids,2001,3758
+  Female,2001,932
+  Male,2001,2826
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2001,6
+  Female,2001,3
+  Male,2001,3
+ Benzodiazepines,2001,1594
+Female ,2001,614
+Male,2001,980
+ Benzodiazepines AND Any Opioid,2001,1121
+  Female,2001,411
+  Male,2001,710
+ Benzodiazepines WITHOUT Any Opioid,2001,473
+  Female,2001,203
+  Male,2001,270
+Benzodiazepines AND Synthetic Opioids,2001,186
+  Female,2001,83
+  Male,2001,103
+Benzodiazepines WITHOUT Synthetic Opioids,2001,1408
+  Female,2001,531
+  Male,2001,877
+Antidepressants,2001,2017
+Female ,2001,1009
+Male,2001,1008
+Antidepressants AND Any Opioid,2001,890
+  Female,2001,426
+  Male,2001,464
+Antidepressants WITHOUT Any Opioid,2001,1127
+  Female,2001,583
+  Male,2001,544
+Antidepressants AND Synthetic Opioids,2001,147
+  Female,2001,79
+  Male,2001,68
+Antidepressants WITHOUT Synthetic Opioids,2001,1870
+  Female,2001,930
+  Male,2001,940
+  Total Overdose Deaths,2002,23518
+  Female,2002,8490
+  Male,2002,15028
+ Any Opioid,2002,11920
+  Female,2002,3760
+  Male,2002,8160
+ Prescription Opioids,2002,6483
+  Female,2002,2304
+  Male,2002,4179
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2002,322
+  Female,2002,157
+  Male,2002,165
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2002,6161
+  Female,2002,2147
+  Male,2002,4014
+ Synthetic Opioids(primarily fentanyl),2002,1295
+  Female,2002,614
+  Male,2002,681
+Heroin,2002,2089
+  Female,2002,359
+  Male,2002,1730
+Heroin AND Synthetic Opioids,2002,15
+  Female,2002,5
+  Male,2002,10
+Heroin WITHOUT Synthetic Opioids,2002,2074
+  Female,2002,354
+  Male,2002,1720
+Stimulants,2002,5423
+  Female,2002,1400
+  Male,2002,4023
+ Stimulants AND Any Opioid,2002,2578
+  Female,2002,658
+  Male,2002,1920
+ Stimulants WITHOUT Any Opioid,2002,2845
+  Female,2002,742
+  Male,2002,2103
+ Stimulants AND Synthetic Opioids,2002,83
+  Female,2002,30
+  Male,2002,53
+ Stimulants WITHOUT Synthetic Opioids,2002,5340
+  Female,2002,1370
+  Male,2002,3970
+ Cocaine,2002,4599
+  Female,2002,1143
+  Male,2002,3456
+ Cocaine AND Any Opioid,2002,2318
+  Female,2002,560
+  Male,2002,1758
+ Cocaine WITHOUT Any Opioid,2002,2281
+  Female,2002,583
+  Male,2002,1698
+ Cocaine AND Synthetic Opioids,2002,65
+  Female,2002,19
+  Male,2002,46
+ Cocaine WITHOUT Synthetic Opioids,2002,4534
+  Female,2002,1124
+  Male,2002,3410
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2002,19
+  Female,2002,12
+  Male,2002,7
+ Benzodiazepines,2002,2022
+Female ,2002,763
+Male,2002,1259
+ Benzodiazepines AND Any Opioid,2002,1511
+  Female,2002,553
+  Male,2002,958
+ Benzodiazepines WITHOUT Any Opioid,2002,511
+  Female,2002,210
+  Male,2002,301
+Benzodiazepines AND Synthetic Opioids,2002,230
+  Female,2002,107
+  Male,2002,123
+Benzodiazepines WITHOUT Synthetic Opioids,2002,1792
+  Female,2002,656
+  Male,2002,1136
+Antidepressants,2002,2370
+Female ,2002,1318
+Male,2002,1052
+Antidepressants AND Any Opioid,2002,1148
+  Female,2002,634
+  Male,2002,514
+Antidepressants WITHOUT Any Opioid,2002,1222
+  Female,2002,684
+  Male,2002,538
+Antidepressants AND Synthetic Opioids,2002,238
+  Female,2002,154
+  Male,2002,84
+Antidepressants WITHOUT Synthetic Opioids,2002,2132
+  Female,2002,1164
+  Male,2002,968
+  Total Overdose Deaths,2003,25785
+  Female,2003,9386
+  Male,2003,16399
+ Any Opioid,2003,12940
+  Female,2003,4138
+  Male,2003,8802
+ Prescription Opioids,2003,7461
+  Female,2003,2681
+  Male,2003,4780
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2003,344
+  Female,2003,151
+  Male,2003,193
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2003,7117
+  Female,2003,2530
+  Male,2003,4587
+ Synthetic Opioids(primarily fentanyl),2003,1400
+  Female,2003,643
+  Male,2003,757
+Heroin,2003,2080
+  Female,2003,358
+  Male,2003,1722
+Heroin AND Synthetic Opioids,2003,16
+  Female,2003,3
+  Male,2003,13
+Heroin WITHOUT Synthetic Opioids,2003,2064
+  Female,2003,355
+  Male,2003,1709
+Stimulants,2003,6215
+  Female,2003,1626
+  Male,2003,4589
+ Stimulants AND Any Opioid,2003,2732
+  Female,2003,692
+  Male,2003,2040
+ Stimulants WITHOUT Any Opioid,2003,3483
+  Female,2003,934
+  Male,2003,2549
+ Stimulants AND Synthetic Opioids,2003,135
+  Female,2003,57
+  Male,2003,78
+ Stimulants WITHOUT Synthetic Opioids,2003,6080
+  Female,2003,1569
+  Male,2003,4511
+ Cocaine,2003,5199
+  Female,2003,1322
+  Male,2003,3877
+ Cocaine AND Any Opioid,2003,2456
+  Female,2003,603
+  Male,2003,1853
+ Cocaine WITHOUT Any Opioid,2003,2743
+  Female,2003,719
+  Male,2003,2024
+ Cocaine AND Synthetic Opioids,2003,109
+  Female,2003,44
+  Male,2003,65
+ Cocaine WITHOUT Synthetic Opioids,2003,5090
+  Female,2003,1278
+  Male,2003,3812
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2003,28
+  Female,2003,14
+  Male,2003,14
+ Benzodiazepines,2003,2248
+Female ,2003,885
+Male,2003,1363
+ Benzodiazepines AND Any Opioid,2003,1692
+  Female,2003,620
+  Male,2003,1072
+ Benzodiazepines WITHOUT Any Opioid,2003,556
+  Female,2003,265
+  Male,2003,291
+Benzodiazepines AND Synthetic Opioids,2003,242
+  Female,2003,105
+  Male,2003,137
+Benzodiazepines WITHOUT Synthetic Opioids,2003,2006
+  Female,2003,780
+  Male,2003,1226
+Antidepressants,2003,2512
+Female ,2003,1384
+Male,2003,1128
+Antidepressants AND Any Opioid,2003,1234
+  Female,2003,692
+  Male,2003,542
+Antidepressants WITHOUT Any Opioid,2003,1278
+  Female,2003,692
+  Male,2003,586
+Antidepressants AND Synthetic Opioids,2003,230
+  Female,2003,139
+  Male,2003,91
+Antidepressants WITHOUT Synthetic Opioids,2003,2282
+  Female,2003,1245
+  Male,2003,1037
+  Total Overdose Deaths,2004,27424
+  Female,2004,10304
+  Male,2004,17120
+ Any Opioid,2004,13756
+  Female,2004,4643
+  Male,2004,9113
+ Prescription Opioids,2004,8577
+  Female,2004,3144
+  Male,2004,5433
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2004,384
+  Female,2004,184
+  Male,2004,200
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2004,8193
+  Female,2004,2960
+  Male,2004,5233
+ Synthetic Opioids(primarily fentanyl),2004,1664
+  Female,2004,798
+  Male,2004,866
+Heroin,2004,1878
+  Female,2004,341
+  Male,2004,1537
+Heroin AND Synthetic Opioids,2004,13
+  Female,2004,6
+  Male,2004,7
+Heroin WITHOUT Synthetic Opioids,2004,1865
+  Female,2004,335
+  Male,2004,1530
+Stimulants,2004,6591
+  Female,2004,1767
+  Male,2004,4824
+ Stimulants AND Any Opioid,2004,2850
+  Female,2004,743
+  Male,2004,2107
+ Stimulants WITHOUT Any Opioid,2004,3741
+  Female,2004,1024
+  Male,2004,2717
+ Stimulants AND Synthetic Opioids,2004,157
+  Female,2004,52
+  Male,2004,105
+ Stimulants WITHOUT Synthetic Opioids,2004,6434
+  Female,2004,1715
+  Male,2004,4719
+ Cocaine,2004,5443
+  Female,2004,1405
+  Male,2004,4038
+ Cocaine AND Any Opioid,2004,2522
+  Female,2004,634
+  Male,2004,1888
+ Cocaine WITHOUT Any Opioid,2004,2921
+  Female,2004,771
+  Male,2004,2150
+ Cocaine AND Synthetic Opioids,2004,130
+  Female,2004,41
+  Male,2004,89
+ Cocaine WITHOUT Synthetic Opioids,2004,5313
+  Female,2004,1364
+  Male,2004,3949
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2004,29
+  Female,2004,12
+  Male,2004,17
+ Benzodiazepines,2004,2627
+Female ,2004,1079
+Male,2004,1548
+ Benzodiazepines AND Any Opioid,2004,2049
+  Female,2004,797
+  Male,2004,1252
+ Benzodiazepines WITHOUT Any Opioid,2004,578
+  Female,2004,282
+  Male,2004,296
+Benzodiazepines AND Synthetic Opioids,2004,270
+  Female,2004,128
+  Male,2004,142
+Benzodiazepines WITHOUT Synthetic Opioids,2004,2357
+  Female,2004,951
+  Male,2004,1406
+Antidepressants,2004,2758
+Female ,2004,1549
+Male,2004,1209
+Antidepressants AND Any Opioid,2004,1379
+  Female,2004,762
+  Male,2004,617
+Antidepressants WITHOUT Any Opioid,2004,1379
+  Female,2004,787
+  Male,2004,592
+Antidepressants AND Synthetic Opioids,2004,264
+  Female,2004,164
+  Male,2004,100
+Antidepressants WITHOUT Synthetic Opioids,2004,2494
+  Female,2004,1385
+  Male,2004,1109
+  Total Overdose Deaths,2005,29813
+  Female,2005,11089
+  Male,2005,18724
+ Any Opioid,2005,14918
+  Female,2005,5161
+  Male,2005,9757
+ Prescription Opioids,2005,9612
+  Female,2005,3572
+  Male,2005,6040
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2005,426
+  Female,2005,207
+  Male,2005,219
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2005,9186
+  Female,2005,3365
+  Male,2005,5821
+ Synthetic Opioids(primarily fentanyl),2005,1742
+  Female,2005,823
+  Male,2005,919
+Heroin,2005,2009
+  Female,2005,389
+  Male,2005,1620
+Heroin AND Synthetic Opioids,2005,34
+  Female,2005,9
+  Male,2005,25
+Heroin WITHOUT Synthetic Opioids,2005,1975
+  Female,2005,380
+  Male,2005,1595
+Stimulants,2005,7606
+  Female,2005,2001
+  Male,2005,5605
+ Stimulants AND Any Opioid,2005,3215
+  Female,2005,853
+  Male,2005,2362
+ Stimulants WITHOUT Any Opioid,2005,4391
+  Female,2005,1148
+  Male,2005,3243
+ Stimulants AND Synthetic Opioids,2005,203
+  Female,2005,75
+  Male,2005,128
+ Stimulants WITHOUT Synthetic Opioids,2005,7403
+  Female,2005,1926
+  Male,2005,5477
+ Cocaine,2005,6208
+  Female,2005,1620
+  Male,2005,4588
+ Cocaine AND Any Opioid,2005,2842
+  Female,2005,737
+  Male,2005,2105
+ Cocaine WITHOUT Any Opioid,2005,3366
+  Female,2005,883
+  Male,2005,2483
+ Cocaine AND Synthetic Opioids,2005,174
+  Female,2005,62
+  Male,2005,112
+ Cocaine WITHOUT Synthetic Opioids,2005,6034
+  Female,2005,1558
+  Male,2005,4476
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2005,33
+  Female,2005,13
+  Male,2005,20
+ Benzodiazepines,2005,3084
+Female ,2005,1209
+Male,2005,1875
+ Benzodiazepines AND Any Opioid,2005,2430
+  Female,2005,922
+  Male,2005,1508
+ Benzodiazepines WITHOUT Any Opioid,2005,654
+  Female,2005,287
+  Male,2005,367
+Benzodiazepines AND Synthetic Opioids,2005,312
+  Female,2005,150
+  Male,2005,162
+Benzodiazepines WITHOUT Synthetic Opioids,2005,2772
+  Female,2005,1059
+  Male,2005,1713
+Antidepressants,2005,2861
+Female ,2005,1575
+Male,2005,1286
+Antidepressants AND Any Opioid,2005,1508
+  Female,2005,806
+  Male,2005,702
+Antidepressants WITHOUT Any Opioid,2005,1353
+  Female,2005,769
+  Male,2005,584
+Antidepressants AND Synthetic Opioids,2005,278
+  Female,2005,159
+  Male,2005,119
+Antidepressants WITHOUT Synthetic Opioids,2005,2583
+  Female,2005,1416
+  Male,2005,1167
+  Total Overdose Deaths,2006,34425
+  Female,2006,12532
+  Male,2006,21893
+ Any Opioid,2006,17545
+  Female,2006,5945
+  Male,2006,11600
+ Prescription Opioids,2006,11589
+  Female,2006,4274
+  Male,2006,7315
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2006,573
+  Female,2006,246
+  Male,2006,327
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2006,11016
+  Female,2006,4028
+  Male,2006,6988
+ Synthetic Opioids(primarily fentanyl),2006,2707
+  Female,2006,1030
+  Male,2006,1677
+Heroin,2006,2088
+  Female,2006,344
+  Male,2006,1744
+Heroin AND Synthetic Opioids,2006,113
+  Female,2006,25
+  Male,2006,88
+Heroin WITHOUT Synthetic Opioids,2006,1975
+  Female,2006,319
+  Male,2006,1656
+Stimulants,2006,8668
+  Female,2006,2214
+  Male,2006,6454
+ Stimulants AND Any Opioid,2006,3764
+  Female,2006,979
+  Male,2006,2785
+ Stimulants WITHOUT Any Opioid,2006,4904
+  Female,2006,1235
+  Male,2006,3669
+ Stimulants AND Synthetic Opioids,2006,463
+  Female,2006,120
+  Male,2006,343
+ Stimulants WITHOUT Synthetic Opioids,2006,8205
+  Female,2006,2094
+  Male,2006,6111
+ Cocaine,2006,7448
+  Female,2006,1860
+  Male,2006,5588
+ Cocaine AND Any Opioid,2006,3372
+  Female,2006,845
+  Male,2006,2527
+ Cocaine WITHOUT Any Opioid,2006,4076
+  Female,2006,1015
+  Male,2006,3061
+ Cocaine AND Synthetic Opioids,2006,432
+  Female,2006,109
+  Male,2006,323
+ Cocaine WITHOUT Synthetic Opioids,2006,7016
+  Female,2006,1751
+  Male,2006,5265
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2006,37
+  Female,2006,16
+  Male,2006,21
+ Benzodiazepines,2006,3835
+Female ,2006,1472
+Male,2006,2363
+ Benzodiazepines AND Any Opioid,2006,3045
+  Female,2006,1137
+  Male,2006,1908
+ Benzodiazepines WITHOUT Any Opioid,2006,790
+  Female,2006,335
+  Male,2006,455
+Benzodiazepines AND Synthetic Opioids,2006,407
+  Female,2006,165
+  Male,2006,242
+Benzodiazepines WITHOUT Synthetic Opioids,2006,3428
+  Female,2006,1307
+  Male,2006,2121
+Antidepressants,2006,3133
+Female ,2006,1819
+Male,2006,1314
+Antidepressants AND Any Opioid,2006,1662
+  Female,2006,946
+  Male,2006,716
+Antidepressants WITHOUT Any Opioid,2006,1471
+  Female,2006,873
+  Male,2006,598
+Antidepressants AND Synthetic Opioids,2006,300
+  Female,2006,176
+  Male,2006,124
+Antidepressants WITHOUT Synthetic Opioids,2006,2833
+  Female,2006,1643
+  Male,2006,1190
+  Total Overdose Deaths,2007,36010
+  Female,2007,13712
+  Male,2007,22298
+ Any Opioid,2007,18516
+  Female,2007,6581
+  Male,2007,11935
+ Prescription Opioids,2007,12796
+  Female,2007,4863
+  Male,2007,7933
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2007,601
+  Female,2007,286
+  Male,2007,315
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2007,12195
+  Female,2007,4577
+  Male,2007,7618
+ Synthetic Opioids(primarily fentanyl),2007,2213
+  Female,2007,1053
+  Male,2007,1160
+Heroin,2007,2399
+  Female,2007,399
+  Male,2007,2000
+Heroin AND Synthetic Opioids,2007,13
+  Female,2007,3
+  Male,2007,10
+Heroin WITHOUT Synthetic Opioids,2007,2386
+  Female,2007,396
+  Male,2007,1990
+Stimulants,2007,7697
+  Female,2007,2028
+  Male,2007,5669
+ Stimulants AND Any Opioid,2007,3394
+  Female,2007,902
+  Male,2007,2492
+ Stimulants WITHOUT Any Opioid,2007,4303
+  Female,2007,1126
+  Male,2007,3177
+ Stimulants AND Synthetic Opioids,2007,246
+  Female,2007,76
+  Male,2007,170
+ Stimulants WITHOUT Synthetic Opioids,2007,7451
+  Female,2007,1952
+  Male,2007,5499
+ Cocaine,2007,6512
+  Female,2007,1665
+  Male,2007,4847
+ Cocaine AND Any Opioid,2007,3027
+  Female,2007,784
+  Male,2007,2243
+ Cocaine WITHOUT Any Opioid,2007,3485
+  Female,2007,881
+  Male,2007,2604
+ Cocaine AND Synthetic Opioids,2007,219
+  Female,2007,63
+  Male,2007,156
+ Cocaine WITHOUT Synthetic Opioids,2007,6293
+  Female,2007,1602
+  Male,2007,4691
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2007,35
+  Female,2007,17
+  Male,2007,18
+ Benzodiazepines,2007,4500
+Female ,2007,1894
+Male,2007,2606
+ Benzodiazepines AND Any Opioid,2007,3605
+  Female,2007,1473
+  Male,2007,2132
+ Benzodiazepines WITHOUT Any Opioid,2007,895
+  Female,2007,421
+  Male,2007,474
+Benzodiazepines AND Synthetic Opioids,2007,436
+  Female,2007,224
+  Male,2007,212
+Benzodiazepines WITHOUT Synthetic Opioids,2007,4064
+  Female,2007,1670
+  Male,2007,2394
+Antidepressants,2007,3425
+Female ,2007,1958
+Male,2007,1467
+Antidepressants AND Any Opioid,2007,1901
+  Female,2007,1094
+  Male,2007,807
+Antidepressants WITHOUT Any Opioid,2007,1524
+  Female,2007,864
+  Male,2007,660
+Antidepressants AND Synthetic Opioids,2007,292
+  Female,2007,203
+  Male,2007,89
+Antidepressants WITHOUT Synthetic Opioids,2007,3133
+  Female,2007,1755
+  Male,2007,1378
+  Total Overdose Deaths,2008,36450
+  Female,2008,13982
+  Male,2008,22468
+ Any Opioid,2008,19582
+  Female,2008,6819
+  Male,2008,12763
+ Prescription Opioids,2008,13149
+  Female,2008,4959
+  Male,2008,8190
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2008,655
+  Female,2008,309
+  Male,2008,346
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2008,12494
+  Female,2008,4650
+  Male,2008,7844
+ Synthetic Opioids(primarily fentanyl),2008,2306
+  Female,2008,1083
+  Male,2008,1223
+Heroin,2008,3041
+  Female,2008,551
+  Male,2008,2490
+Heroin AND Synthetic Opioids,2008,28
+  Female,2008,13
+  Male,2008,15
+Heroin WITHOUT Synthetic Opioids,2008,3013
+  Female,2008,538
+  Male,2008,2475
+Stimulants,2008,6320
+  Female,2008,1667
+  Male,2008,4653
+ Stimulants AND Any Opioid,2008,3085
+  Female,2008,829
+  Male,2008,2256
+ Stimulants WITHOUT Any Opioid,2008,3235
+  Female,2008,838
+  Male,2008,2397
+ Stimulants AND Synthetic Opioids,2008,227
+  Female,2008,78
+  Male,2008,149
+ Stimulants WITHOUT Synthetic Opioids,2008,6093
+  Female,2008,1589
+  Male,2008,4504
+ Cocaine,2008,5129
+  Female,2008,1322
+  Male,2008,3807
+ Cocaine AND Any Opioid,2008,2656
+  Female,2008,695
+  Male,2008,1961
+ Cocaine WITHOUT Any Opioid,2008,2473
+  Female,2008,627
+  Male,2008,1846
+ Cocaine AND Synthetic Opioids,2008,182
+  Female,2008,59
+  Male,2008,123
+ Cocaine WITHOUT Synthetic Opioids,2008,4947
+  Female,2008,1263
+  Male,2008,3684
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2008,47
+  Female,2008,19
+  Male,2008,28
+ Benzodiazepines,2008,5010
+Female ,2008,2046
+Male,2008,2964
+ Benzodiazepines AND Any Opioid,2008,4070
+  Female,2008,1618
+  Male,2008,2452
+ Benzodiazepines WITHOUT Any Opioid,2008,940
+  Female,2008,428
+  Male,2008,512
+Benzodiazepines AND Synthetic Opioids,2008,491
+  Female,2008,250
+  Male,2008,241
+Benzodiazepines WITHOUT Synthetic Opioids,2008,4519
+  Female,2008,1796
+  Male,2008,2723
+Antidepressants,2008,3610
+Female ,2008,2047
+Male,2008,1563
+Antidepressants AND Any Opioid,2008,2111
+  Female,2008,1199
+  Male,2008,912
+Antidepressants WITHOUT Any Opioid,2008,1499
+  Female,2008,848
+  Male,2008,651
+Antidepressants AND Synthetic Opioids,2008,384
+  Female,2008,248
+  Male,2008,136
+Antidepressants WITHOUT Synthetic Opioids,2008,3226
+  Female,2008,1799
+  Male,2008,1427
+  Total Overdose Deaths,2009,37004
+  Female,2009,14411
+  Male,2009,22593
+ Any Opioid,2009,20422
+  Female,2009,7287
+  Male,2009,13135
+ Prescription Opioids,2009,13523
+  Female,2009,5212
+  Male,2009,8311
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2009,872
+  Female,2009,444
+  Male,2009,428
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2009,12651
+  Female,2009,4768
+  Male,2009,7883
+ Synthetic Opioids(primarily fentanyl),2009,2946
+  Female,2009,1445
+  Male,2009,1501
+Heroin,2009,3278
+  Female,2009,577
+  Male,2009,2701
+Heroin AND Synthetic Opioids,2009,29
+  Female,2009,10
+  Male,2009,19
+Heroin WITHOUT Synthetic Opioids,2009,3249
+  Female,2009,567
+  Male,2009,2682
+Stimulants,2009,5824
+  Female,2009,1586
+  Male,2009,4238
+ Stimulants AND Any Opioid,2009,2766
+  Female,2009,752
+  Male,2009,2014
+ Stimulants WITHOUT Any Opioid,2009,3058
+  Female,2009,834
+  Male,2009,2224
+ Stimulants AND Synthetic Opioids,2009,240
+  Female,2009,83
+  Male,2009,157
+ Stimulants WITHOUT Synthetic Opioids,2009,5584
+  Female,2009,1503
+  Male,2009,4081
+ Cocaine,2009,4350
+  Female,2009,1141
+  Male,2009,3209
+ Cocaine AND Any Opioid,2009,2210
+  Female,2009,574
+  Male,2009,1636
+ Cocaine WITHOUT Any Opioid,2009,2140
+  Female,2009,567
+  Male,2009,1573
+ Cocaine AND Synthetic Opioids,2009,176
+  Female,2009,61
+  Male,2009,115
+ Cocaine WITHOUT Synthetic Opioids,2009,4174
+  Female,2009,1080
+  Male,2009,3094
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2009,69
+  Female,2009,25
+  Male,2009,44
+ Benzodiazepines,2009,5567
+Female ,2009,2281
+Male,2009,3286
+ Benzodiazepines AND Any Opioid,2009,4633
+  Female,2009,1853
+  Male,2009,2780
+ Benzodiazepines WITHOUT Any Opioid,2009,934
+  Female,2009,428
+  Male,2009,506
+Benzodiazepines AND Synthetic Opioids,2009,658
+  Female,2009,330
+  Male,2009,328
+Benzodiazepines WITHOUT Synthetic Opioids,2009,4909
+  Female,2009,1951
+  Male,2009,2958
+Antidepressants,2009,3768
+Female ,2009,2133
+Male,2009,1635
+Antidepressants AND Any Opioid,2009,2292
+  Female,2009,1308
+  Male,2009,984
+Antidepressants WITHOUT Any Opioid,2009,1476
+  Female,2009,825
+  Male,2009,651
+Antidepressants AND Synthetic Opioids,2009,505
+  Female,2009,337
+  Male,2009,168
+Antidepressants WITHOUT Synthetic Opioids,2009,3263
+  Female,2009,1796
+  Male,2009,1467
+  Total Overdose Deaths,2010,38329
+  Female,2010,15323
+  Male,2010,23006
+ Any Opioid,2010,21089
+  Female,2010,7734
+  Male,2010,13355
+ Prescription Opioids,2010,14583
+  Female,2010,5644
+  Male,2010,8939
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2010,939
+  Female,2010,453
+  Male,2010,486
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2010,13644
+  Female,2010,5191
+  Male,2010,8453
+ Synthetic Opioids(primarily fentanyl),2010,3007
+  Female,2010,1440
+  Male,2010,1567
+Heroin,2010,3036
+  Female,2010,584
+  Male,2010,2452
+Heroin AND Synthetic Opioids,2010,45
+  Female,2010,8
+  Male,2010,37
+Heroin WITHOUT Synthetic Opioids,2010,2991
+  Female,2010,576
+  Male,2010,2415
+Stimulants,2010,5914
+  Female,2010,1683
+  Male,2010,4231
+ Stimulants AND Any Opioid,2010,2662
+  Female,2010,803
+  Male,2010,1859
+ Stimulants WITHOUT Any Opioid,2010,3252
+  Female,2010,880
+  Male,2010,2372
+ Stimulants AND Synthetic Opioids,2010,235
+  Female,2010,99
+  Male,2010,136
+ Stimulants WITHOUT Synthetic Opioids,2010,5679
+  Female,2010,1584
+  Male,2010,4095
+ Cocaine,2010,4183
+  Female,2010,1132
+  Male,2010,3051
+ Cocaine AND Any Opioid,2010,2086
+  Female,2010,572
+  Male,2010,1514
+ Cocaine WITHOUT Any Opioid,2010,2097
+  Female,2010,560
+  Male,2010,1537
+ Cocaine AND Synthetic Opioids,2010,167
+  Female,2010,63
+  Male,2010,104
+ Cocaine WITHOUT Synthetic Opioids,2010,4016
+  Female,2010,1069
+  Male,2010,2947
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2010,73
+  Female,2010,37
+  Male,2010,36
+ Benzodiazepines,2010,6497
+Female ,2010,2579
+Male,2010,3918
+ Benzodiazepines AND Any Opioid,2010,5517
+  Female,2010,2125
+  Male,2010,3392
+ Benzodiazepines WITHOUT Any Opioid,2010,980
+  Female,2010,454
+  Male,2010,526
+Benzodiazepines AND Synthetic Opioids,2010,746
+  Female,2010,355
+  Male,2010,391
+Benzodiazepines WITHOUT Synthetic Opioids,2010,5751
+  Female,2010,2224
+  Male,2010,3527
+Antidepressants,2010,3889
+Female ,2010,2204
+Male,2010,1685
+Antidepressants AND Any Opioid,2010,2389
+  Female,2010,1364
+  Male,2010,1025
+Antidepressants WITHOUT Any Opioid,2010,1500
+  Female,2010,840
+  Male,2010,660
+Antidepressants AND Synthetic Opioids,2010,568
+  Female,2010,358
+  Male,2010,210
+Antidepressants WITHOUT Synthetic Opioids,2010,3321
+  Female,2010,1846
+  Male,2010,1475
+  Total Overdose Deaths,2011,41340
+  Female,2011,16352
+  Male,2011,24988
+ Any Opioid,2011,22784
+  Female,2011,8325
+  Male,2011,14459
+ Prescription Opioids,2011,15140
+  Female,2011,6082
+  Male,2011,9058
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2011,889
+  Female,2011,426
+  Male,2011,463
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2011,14251
+  Female,2011,5656
+  Male,2011,8595
+ Synthetic Opioids(primarily fentanyl),2011,2666
+  Female,2011,1247
+  Male,2011,1419
+Heroin,2011,4397
+  Female,2011,878
+  Male,2011,3519
+Heroin AND Synthetic Opioids,2011,44
+  Female,2011,11
+  Male,2011,33
+Heroin WITHOUT Synthetic Opioids,2011,4353
+  Female,2011,867
+  Male,2011,3486
+Stimulants,2011,6765
+  Female,2011,1955
+  Male,2011,4810
+ Stimulants AND Any Opioid,2011,3255
+  Female,2011,1024
+  Male,2011,2231
+ Stimulants WITHOUT Any Opioid,2011,3510
+  Female,2011,931
+  Male,2011,2579
+ Stimulants AND Synthetic Opioids,2011,274
+  Female,2011,122
+  Male,2011,152
+ Stimulants WITHOUT Synthetic Opioids,2011,6491
+  Female,2011,1833
+  Male,2011,4658
+ Cocaine,2011,4681
+  Female,2011,1314
+  Male,2011,3367
+ Cocaine AND Any Opioid,2011,2505
+  Female,2011,746
+  Male,2011,1759
+ Cocaine WITHOUT Any Opioid,2011,2176
+  Female,2011,568
+  Male,2011,1608
+ Cocaine AND Synthetic Opioids,2011,189
+  Female,2011,87
+  Male,2011,102
+ Cocaine WITHOUT Synthetic Opioids,2011,4492
+  Female,2011,1227
+  Male,2011,3265
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2011,93
+  Female,2011,40
+  Male,2011,53
+ Benzodiazepines,2011,6872
+Female ,2011,2902
+Male,2011,3970
+ Benzodiazepines AND Any Opioid,2011,5826
+  Female,2011,2408
+  Male,2011,3418
+ Benzodiazepines WITHOUT Any Opioid,2011,1046
+  Female,2011,494
+  Male,2011,552
+Benzodiazepines AND Synthetic Opioids,2011,665
+  Female,2011,324
+  Male,2011,341
+Benzodiazepines WITHOUT Synthetic Opioids,2011,6207
+  Female,2011,2578
+  Male,2011,3629
+Antidepressants,2011,4113
+Female ,2011,2422
+Male,2011,1691
+Antidepressants AND Any Opioid,2011,2501
+  Female,2011,1468
+  Male,2011,1033
+Antidepressants WITHOUT Any Opioid,2011,1612
+  Female,2011,954
+  Male,2011,658
+Antidepressants AND Synthetic Opioids,2011,463
+  Female,2011,283
+  Male,2011,180
+Antidepressants WITHOUT Synthetic Opioids,2011,3650
+  Female,2011,2139
+  Male,2011,1511
+  Total Overdose Deaths,2012,41502
+  Female,2012,16390
+  Male,2012,25112
+ Any Opioid,2012,23166
+  Female,2012,8432
+  Male,2012,14734
+ Prescription Opioids,2012,14240
+  Female,2012,5995
+  Male,2012,8245
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2012,861
+  Female,2012,445
+  Male,2012,416
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2012,13379
+  Female,2012,5550
+  Male,2012,7829
+ Synthetic Opioids(primarily fentanyl),2012,2628
+  Female,2012,1195
+  Male,2012,1433
+Heroin,2012,5925
+  Female,2012,1213
+  Male,2012,4712
+Heroin AND Synthetic Opioids,2012,69
+  Female,2012,19
+  Male,2012,50
+Heroin WITHOUT Synthetic Opioids,2012,5856
+  Female,2012,1194
+  Male,2012,4662
+Stimulants,2012,6879
+  Female,2012,2026
+  Male,2012,4853
+ Stimulants AND Any Opioid,2012,3340
+  Female,2012,1057
+  Male,2012,2283
+ Stimulants WITHOUT Any Opioid,2012,3539
+  Female,2012,969
+  Male,2012,2570
+ Stimulants AND Synthetic Opioids,2012,261
+  Female,2012,91
+  Male,2012,170
+ Stimulants WITHOUT Synthetic Opioids,2012,6618
+  Female,2012,1935
+  Male,2012,4683
+ Cocaine,2012,4404
+  Female,2012,1262
+  Male,2012,3142
+ Cocaine AND Any Opioid,2012,2448
+  Female,2012,720
+  Male,2012,1728
+ Cocaine WITHOUT Any Opioid,2012,1956
+  Female,2012,542
+  Male,2012,1414
+ Cocaine AND Synthetic Opioids,2012,182
+  Female,2012,59
+  Male,2012,123
+ Cocaine WITHOUT Synthetic Opioids,2012,4222
+  Female,2012,1203
+  Male,2012,3019
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2012,91
+  Female,2012,40
+  Male,2012,51
+ Benzodiazepines,2012,6524
+Female ,2012,2789
+Male,2012,3735
+ Benzodiazepines AND Any Opioid,2012,5500
+  Female,2012,2283
+  Male,2012,3217
+ Benzodiazepines WITHOUT Any Opioid,2012,1024
+  Female,2012,506
+  Male,2012,518
+Benzodiazepines AND Synthetic Opioids,2012,655
+  Female,2012,304
+  Male,2012,351
+Benzodiazepines WITHOUT Synthetic Opioids,2012,5869
+  Female,2012,2485
+  Male,2012,3384
+Antidepressants,2012,4259
+Female ,2012,2469
+Male,2012,1790
+Antidepressants AND Any Opioid,2012,2536
+  Female,2012,1470
+  Male,2012,1066
+Antidepressants WITHOUT Any Opioid,2012,1723
+  Female,2012,999
+  Male,2012,724
+Antidepressants AND Synthetic Opioids,2012,464
+  Female,2012,273
+  Male,2012,191
+Antidepressants WITHOUT Synthetic Opioids,2012,3795
+  Female,2012,2196
+  Male,2012,1599
+  Total Overdose Deaths,2013,43982
+  Female,2013,17183
+  Male,2013,26799
+ Any Opioid,2013,25052
+  Female,2013,9055
+  Male,2013,15997
+ Prescription Opioids,2013,14145
+  Female,2013,6049
+  Male,2013,8096
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2013,1015
+  Female,2013,488
+  Male,2013,527
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2013,13130
+  Female,2013,5561
+  Male,2013,7569
+ Synthetic Opioids(primarily fentanyl),2013,3105
+  Female,2013,1431
+  Male,2013,1674
+Heroin,2013,8257
+  Female,2013,1732
+  Male,2013,6525
+Heroin AND Synthetic Opioids,2013,209
+  Female,2013,58
+  Male,2013,151
+Heroin WITHOUT Synthetic Opioids,2013,8048
+  Female,2013,1674
+  Male,2013,6374
+Stimulants,2013,8338
+  Female,2013,2412
+  Male,2013,5926
+ Stimulants AND Any Opioid,2013,4037
+  Female,2013,1240
+  Male,2013,2797
+ Stimulants WITHOUT Any Opioid,2013,4301
+  Female,2013,1172
+  Male,2013,3129
+ Stimulants AND Synthetic Opioids,2013,373
+  Female,2013,149
+  Male,2013,224
+ Stimulants WITHOUT Synthetic Opioids,2013,7965
+  Female,2013,2263
+  Male,2013,5702
+ Cocaine,2013,4944
+  Female,2013,1376
+  Male,2013,3568
+ Cocaine AND Any Opioid,2013,2831
+  Female,2013,803
+  Male,2013,2028
+ Cocaine WITHOUT Any Opioid,2013,2113
+  Female,2013,573
+  Male,2013,1540
+ Cocaine AND Synthetic Opioids,2013,245
+  Female,2013,87
+  Male,2013,158
+ Cocaine WITHOUT Synthetic Opioids,2013,4699
+  Female,2013,1289
+  Male,2013,3410
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2013,142
+  Female,2013,67
+  Male,2013,75
+ Benzodiazepines,2013,6973
+Female ,2013,3026
+Male,2013,3947
+ Benzodiazepines AND Any Opioid,2013,5869
+  Female,2013,2485
+  Male,2013,3384
+ Benzodiazepines WITHOUT Any Opioid,2013,1104
+  Female,2013,541
+  Male,2013,563
+Benzodiazepines AND Synthetic Opioids,2013,804
+  Female,2013,388
+  Male,2013,416
+Benzodiazepines WITHOUT Synthetic Opioids,2013,6169
+  Female,2013,2638
+  Male,2013,3531
+Antidepressants,2013,4458
+Female ,2013,2673
+Male,2013,1785
+Antidepressants AND Any Opioid,2013,2763
+  Female,2013,1664
+  Male,2013,1099
+Antidepressants WITHOUT Any Opioid,2013,1695
+  Female,2013,1009
+  Male,2013,686
+Antidepressants AND Synthetic Opioids,2013,571
+  Female,2013,348
+  Male,2013,223
+Antidepressants WITHOUT Synthetic Opioids,2013,3887
+  Female,2013,2325
+  Male,2013,1562
+  Total Overdose Deaths,2014,47055
+  Female,2014,18243
+  Male,2014,28812
+ Any Opioid,2014,28647
+  Female,2014,10227
+  Male,2014,18420
+ Prescription Opioids,2014,14838
+  Female,2014,6506
+  Male,2014,8332
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2014,1489
+  Female,2014,661
+  Male,2014,828
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2014,13349
+  Female,2014,5845
+  Male,2014,7504
+ Synthetic Opioids(primarily fentanyl),2014,5544
+  Female,2014,2079
+  Male,2014,3465
+Heroin,2014,10574
+  Female,2014,2414
+  Male,2014,8160
+Heroin AND Synthetic Opioids,2014,1027
+  Female,2014,275
+  Male,2014,752
+Heroin WITHOUT Synthetic Opioids,2014,9547
+  Female,2014,2139
+  Male,2014,7408
+Stimulants,2014,9395
+  Female,2014,2720
+  Male,2014,6675
+ Stimulants AND Any Opioid,2014,4999
+  Female,2014,1519
+  Male,2014,3480
+ Stimulants WITHOUT Any Opioid,2014,4396
+  Female,2014,1201
+  Male,2014,3195
+ Stimulants AND Synthetic Opioids,2014,869
+  Female,2014,283
+  Male,2014,586
+ Stimulants WITHOUT Synthetic Opioids,2014,8526
+  Female,2014,2437
+  Male,2014,6089
+ Cocaine,2014,5415
+  Female,2014,1535
+  Male,2014,3880
+ Cocaine AND Any Opioid,2014,3414
+  Female,2014,973
+  Male,2014,2441
+ Cocaine WITHOUT Any Opioid,2014,2001
+  Female,2014,562
+  Male,2014,1439
+ Cocaine AND Synthetic Opioids,2014,628
+  Female,2014,187
+  Male,2014,441
+ Cocaine WITHOUT Synthetic Opioids,2014,4787
+  Female,2014,1348
+  Male,2014,3439
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2014,276
+  Female,2014,106
+  Male,2014,170
+ Benzodiazepines,2014,7945
+Female ,2014,3487
+Male,2014,4458
+ Benzodiazepines AND Any Opioid,2014,6733
+  Female,2014,2876
+  Male,2014,3857
+ Benzodiazepines WITHOUT Any Opioid,2014,1212
+  Female,2014,611
+  Male,2014,601
+Benzodiazepines AND Synthetic Opioids,2014,1222
+  Female,2014,534
+  Male,2014,688
+Benzodiazepines WITHOUT Synthetic Opioids,2014,6723
+  Female,2014,2953
+  Male,2014,3770
+Antidepressants,2014,4768
+Female ,2014,2857
+Male,2014,1911
+Antidepressants AND Any Opioid,2014,2983
+  Female,2014,1767
+  Male,2014,1216
+Antidepressants WITHOUT Any Opioid,2014,1785
+  Female,2014,1090
+  Male,2014,695
+Antidepressants AND Synthetic Opioids,2014,723
+  Female,2014,437
+  Male,2014,286
+Antidepressants WITHOUT Synthetic Opioids,2014,4045
+  Female,2014,2420
+  Male,2014,1625
+  Total Overdose Deaths,2015,52404
+  Female,2015,19447
+  Male,2015,32957
+ Any Opioid,2015,33091
+  Female,2015,11420
+  Male,2015,21671
+ Prescription Opioids,2015,15281
+  Female,2015,6664
+  Male,2015,8617
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2015,2263
+  Female,2015,898
+  Male,2015,1365
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2015,13018
+  Female,2015,5766
+  Male,2015,7252
+ Synthetic Opioids(primarily fentanyl),2015,9580
+  Female,2015,3020
+  Male,2015,6560
+Heroin,2015,12989
+  Female,2015,3108
+  Male,2015,9881
+Heroin AND Synthetic Opioids,2015,2685
+  Female,2015,670
+  Male,2015,2015
+Heroin WITHOUT Synthetic Opioids,2015,10304
+  Female,2015,2438
+  Male,2015,7866
+Stimulants,2015,12122
+  Female,2015,3527
+  Male,2015,8595
+ Stimulants AND Any Opioid,2015,6594
+  Female,2015,2000
+  Male,2015,4594
+ Stimulants WITHOUT Any Opioid,2015,5528
+  Female,2015,1527
+  Male,2015,4001
+ Stimulants AND Synthetic Opioids,2015,1969
+  Female,2015,577
+  Male,2015,1392
+ Stimulants WITHOUT Synthetic Opioids,2015,10153
+  Female,2015,2950
+  Male,2015,7203
+ Cocaine,2015,6784
+  Female,2015,1899
+  Male,2015,4885
+ Cocaine AND Any Opioid,2015,4506
+  Female,2015,1261
+  Male,2015,3245
+ Cocaine WITHOUT Any Opioid,2015,2278
+  Female,2015,638
+  Male,2015,1640
+ Cocaine AND Synthetic Opioids,2015,1542
+  Female,2015,425
+  Male,2015,1117
+ Cocaine WITHOUT Synthetic Opioids,2015,5242
+  Female,2015,1474
+  Male,2015,3768
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2015,494
+  Female,2015,174
+  Male,2015,320
+ Benzodiazepines,2015,8791
+Female ,2015,3779
+Male,2015,5012
+ Benzodiazepines AND Any Opioid,2015,7485
+  Female,2015,3137
+  Male,2015,4348
+ Benzodiazepines WITHOUT Any Opioid,2015,1306
+  Female,2015,642
+  Male,2015,664
+Benzodiazepines AND Synthetic Opioids,2015,1801
+  Female,2015,738
+  Male,2015,1063
+Benzodiazepines WITHOUT Synthetic Opioids,2015,6990
+  Female,2015,3041
+  Male,2015,3949
+Antidepressants,2015,4894
+Female ,2015,2909
+Male,2015,1985
+Antidepressants AND Any Opioid,2015,3062
+  Female,2015,1758
+  Male,2015,1304
+Antidepressants WITHOUT Any Opioid,2015,1832
+  Female,2015,1151
+  Male,2015,681
+Antidepressants AND Synthetic Opioids,2015,808
+  Female,2015,463
+  Male,2015,345
+Antidepressants WITHOUT Synthetic Opioids,2015,4086
+  Female,2015,2446
+  Male,2015,1640
+  Total Overdose Deaths,2016,63632
+  Female,2016,22074
+  Male,2016,41558
+ Any Opioid,2016,42249
+  Female,2016,13751
+  Male,2016,28498
+ Prescription Opioids,2016,17087
+  Female,2016,7109
+  Male,2016,9978
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2016,4055
+  Female,2016,1394
+  Male,2016,2661
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2016,13032
+  Female,2016,5715
+  Male,2016,7317
+ Synthetic Opioids(primarily fentanyl),2016,19413
+  Female,2016,5578
+  Male,2016,13835
+Heroin,2016,15469
+  Female,2016,3717
+  Male,2016,11752
+Heroin AND Synthetic Opioids,2016,5781
+  Female,2016,1430
+  Male,2016,4351
+Heroin WITHOUT Synthetic Opioids,2016,9688
+  Female,2016,2287
+  Male,2016,7401
+Stimulants,2016,17258
+  Female,2016,4895
+  Male,2016,12363
+ Stimulants AND Any Opioid,2016,10222
+  Female,2016,2987
+  Male,2016,7235
+ Stimulants WITHOUT Any Opioid,2016,7036
+  Female,2016,1908
+  Male,2016,5128
+ Stimulants AND Synthetic Opioids,2016,5029
+  Female,2016,1428
+  Male,2016,3601
+ Stimulants WITHOUT Synthetic Opioids,2016,12229
+  Female,2016,3467
+  Male,2016,8762
+ Cocaine,2016,10375
+  Female,2016,2882
+  Male,2016,7493
+ Cocaine AND Any Opioid,2016,7263
+  Female,2016,2048
+  Male,2016,5215
+ Cocaine WITHOUT Any Opioid,2016,3112
+  Female,2016,834
+  Male,2016,2278
+ Cocaine AND Synthetic Opioids,2016,4184
+  Female,2016,1171
+  Male,2016,3013
+ Cocaine WITHOUT Synthetic Opioids,2016,6191
+  Female,2016,1711
+  Male,2016,4480
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2016,1042
+  Female,2016,322
+  Male,2016,720
+ Benzodiazepines,2016,10684
+Female ,2016,4359
+Male,2016,6325
+ Benzodiazepines AND Any Opioid,2016,9233
+  Female,2016,3723
+  Male,2016,5510
+ Benzodiazepines WITHOUT Any Opioid,2016,1451
+  Female,2016,636
+  Male,2016,815
+Benzodiazepines AND Synthetic Opioids,2016,3308
+  Female,2016,1188
+  Male,2016,2120
+Benzodiazepines WITHOUT Synthetic Opioids,2016,7376
+  Female,2016,3171
+  Male,2016,4205
+Antidepressants,2016,4812
+Female ,2016,2835
+Male,2016,1977
+Antidepressants AND Any Opioid,2016,2960
+  Female,2016,1719
+  Male,2016,1241
+Antidepressants WITHOUT Any Opioid,2016,1852
+  Female,2016,1116
+  Male,2016,736
+Antidepressants AND Synthetic Opioids,2016,1002
+  Female,2016,529
+  Male,2016,473
+Antidepressants WITHOUT Synthetic Opioids,2016,3810
+  Female,2016,2306
+  Male,2016,1504
+  Total Overdose Deaths,2017,70237
+  Female,2017,23685
+  Male,2017,46552
+ Any Opioid,2017,47600
+  Female,2017,15263
+  Male,2017,32337
+ Prescription Opioids,2017,17029
+  Female,2017,7156
+  Male,2017,9873
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2017,5444
+  Female,2017,1859
+  Male,2017,3585
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2017,11585
+  Female,2017,5297
+  Male,2017,6288
+ Synthetic Opioids(primarily fentanyl),2017,28466
+  Female,2017,7942
+  Male,2017,20524
+Heroin,2017,15482
+  Female,2017,3886
+  Male,2017,11596
+Heroin AND Synthetic Opioids,2017,8091
+  Female,2017,2035
+  Male,2017,6056
+Heroin WITHOUT Synthetic Opioids,2017,7391
+  Female,2017,1851
+  Male,2017,5540
+Stimulants,2017,23139
+  Female,2017,6645
+  Male,2017,16494
+ Stimulants AND Any Opioid,2017,14455
+  Female,2017,4292
+  Male,2017,10163
+ Stimulants WITHOUT Any Opioid,2017,8684
+  Female,2017,2353
+  Male,2017,6331
+ Stimulants AND Synthetic Opioids,2017,9262
+  Female,2017,2612
+  Male,2017,6650
+ Stimulants WITHOUT Synthetic Opioids,2017,13877
+  Female,2017,4033
+  Male,2017,9844
+ Cocaine,2017,13942
+  Female,2017,3921
+  Male,2017,10021
+ Cocaine AND Any Opioid,2017,10131
+  Female,2017,2898
+  Male,2017,7233
+ Cocaine WITHOUT Any Opioid,2017,3811
+  Female,2017,1023
+  Male,2017,2788
+ Cocaine AND Synthetic Opioids,2017,7241
+  Female,2017,2023
+  Male,2017,5218
+ Cocaine WITHOUT Synthetic Opioids,2017,6701
+  Female,2017,1898
+  Male,2017,4803
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2017,2546
+  Female,2017,766
+  Male,2017,1780
+ Benzodiazepines,2017,11537
+Female ,2017,4772
+Male,2017,6765
+ Benzodiazepines AND Any Opioid,2017,10010
+  Female,2017,4031
+  Male,2017,5979
+ Benzodiazepines WITHOUT Any Opioid,2017,1527
+  Female,2017,741
+  Male,2017,786
+Benzodiazepines AND Synthetic Opioids,2017,4869
+  Female,2017,1696
+  Male,2017,3173
+Benzodiazepines WITHOUT Synthetic Opioids,2017,6668
+  Female,2017,3076
+  Male,2017,3592
+Antidepressants,2017,5269
+Female ,2017,3112
+Male,2017,2157
+Antidepressants AND Any Opioid,2017,3301
+  Female,2017,1871
+  Male,2017,1430
+Antidepressants WITHOUT Any Opioid,2017,1968
+  Female,2017,1241
+  Male,2017,727
+Antidepressants AND Synthetic Opioids,2017,1414
+  Female,2017,692
+  Male,2017,722
+Antidepressants WITHOUT Synthetic Opioids,2017,3855
+  Female,2017,2420
+  Male,2017,1435
+  Total Overdose Deaths,2018,67367
+  Female,2018,22426
+  Male,2018,44941
+ Any Opioid,2018,46802
+  Female,2018,14724
+  Male,2018,32078
+ Prescription Opioids,2018,14975
+  Female,2018,6252
+  Male,2018,8723
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2018,5417
+  Female,2018,1872
+  Male,2018,3545
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2018,9558
+  Female,2018,4380
+  Male,2018,5178
+ Synthetic Opioids(primarily fentanyl),2018,31335
+  Female,2018,8807
+  Male,2018,22528
+Heroin,2018,14996
+  Female,2018,3705
+  Male,2018,11291
+Heroin AND Synthetic Opioids,2018,9068
+  Female,2018,2267
+  Male,2018,6801
+Heroin WITHOUT Synthetic Opioids,2018,5928
+  Female,2018,1438
+  Male,2018,4490
+Stimulants,2018,25877
+  Female,2018,7529
+  Male,2018,18348
+ Stimulants AND Any Opioid,2018,16165
+  Female,2018,4870
+  Male,2018,11295
+ Stimulants WITHOUT Any Opioid,2018,9712
+  Female,2018,2659
+  Male,2018,7053
+ Stimulants AND Synthetic Opioids,2018,11516
+  Female,2018,3405
+  Male,2018,8111
+ Stimulants WITHOUT Synthetic Opioids,2018,14361
+  Female,2018,4124
+  Male,2018,10237
+ Cocaine,2018,14666
+  Female,2018,4228
+  Male,2018,10438
+ Cocaine AND Any Opioid,2018,10887
+  Female,2018,3189
+  Male,2018,7698
+ Cocaine WITHOUT Any Opioid,2018,3779
+  Female,2018,1039
+  Male,2018,2740
+ Cocaine AND Synthetic Opioids,2018,8659
+  Female,2018,2496
+  Male,2018,6163
+ Cocaine WITHOUT Synthetic Opioids,2018,6007
+  Female,2018,1732
+  Male,2018,4275
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2018,3613
+  Female,2018,1163
+  Male,2018,2450
+ Benzodiazepines,2018,10724
+Female ,2018,4481
+Male,2018,6243
+ Benzodiazepines AND Any Opioid,2018,9140
+  Female,2018,3699
+  Male,2018,5441
+ Benzodiazepines WITHOUT Any Opioid,2018,1584
+  Female,2018,782
+  Male,2018,802
+Benzodiazepines AND Synthetic Opioids,2018,5066
+  Female,2018,1808
+  Male,2018,3258
+Benzodiazepines WITHOUT Synthetic Opioids,2018,5658
+  Female,2018,2673
+  Male,2018,2985
+Antidepressants,2018,5064
+Female ,2018,2993
+Male,2018,2071
+Antidepressants AND Any Opioid,2018,3019
+  Female,2018,1715
+  Male,2018,1304
+Antidepressants WITHOUT Any Opioid,2018,2045
+  Female,2018,1278
+  Male,2018,767
+Antidepressants AND Synthetic Opioids,2018,1423
+  Female,2018,704
+  Male,2018,719
+Antidepressants WITHOUT Synthetic Opioids,2018,3641
+  Female,2018,2289
+  Male,2018,1352
+  Total Overdose Deaths,2019,70630
+  Female,2019,22749
+  Male,2019,47881
+ Any Opioid,2019,49860
+  Female,2019,15225
+  Male,2019,34635
+ Prescription Opioids,2019,14139
+  Female,2019,5755
+  Male,2019,8384
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2019,5876
+  Female,2019,1949
+  Male,2019,3927
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2019,8263
+  Female,2019,3806
+  Male,2019,4457
+ Synthetic Opioids(primarily fentanyl),2019,36359
+  Female,2019,10076
+  Male,2019,26283
+Heroin,2019,14019
+  Female,2019,3520
+  Male,2019,10499
+Heroin AND Synthetic Opioids,2019,8746
+  Female,2019,2256
+  Male,2019,6490
+Heroin WITHOUT Synthetic Opioids,2019,5273
+  Female,2019,1264
+  Male,2019,4009
+Stimulants,2019,30231
+  Female,2019,8532
+  Male,2019,21699
+ Stimulants AND Any Opioid,2019,19192
+  Female,2019,5561
+  Male,2019,13631
+ Stimulants WITHOUT Any Opioid,2019,11039
+  Female,2019,2971
+  Male,2019,8068
+ Stimulants AND Synthetic Opioids,2019,14627
+  Female,2019,4123
+  Male,2019,10504
+ Stimulants WITHOUT Synthetic Opioids,2019,15604
+  Female,2019,4409
+  Male,2019,11195
+ Cocaine,2019,15883
+  Female,2019,4336
+  Male,2019,11547
+ Cocaine AND Any Opioid,2019,11998
+  Female,2019,3308
+  Male,2019,8690
+ Cocaine WITHOUT Any Opioid,2019,3885
+  Female,2019,1028
+  Male,2019,2857
+ Cocaine AND Synthetic Opioids,2019,10139
+  Female,2019,2738
+  Male,2019,7401
+ Cocaine WITHOUT Synthetic Opioids,2019,5744
+  Female,2019,1598
+  Male,2019,4146
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2019,5564
+  Female,2019,1711
+  Male,2019,3853
+ Benzodiazepines,2019,9711
+Female ,2019,3986
+Male,2019,5725
+ Benzodiazepines AND Any Opioid,2019,8301
+  Female,2019,3303
+  Male,2019,4998
+ Benzodiazepines WITHOUT Any Opioid,2019,1410
+  Female,2019,683
+  Male,2019,727
+Benzodiazepines AND Synthetic Opioids,2019,5187
+  Female,2019,1834
+  Male,2019,3353
+Benzodiazepines WITHOUT Synthetic Opioids,2019,4524
+  Female,2019,2152
+  Male,2019,2372
+Antidepressants,2019,5175
+Female ,2019,3048
+Male,2019,2127
+Antidepressants AND Any Opioid,2019,3151
+  Female,2019,1773
+  Male,2019,1378
+Antidepressants WITHOUT Any Opioid,2019,2024
+  Female,2019,1275
+  Male,2019,749
+Antidepressants AND Synthetic Opioids,2019,1710
+  Female,2019,887
+  Male,2019,823
+Antidepressants WITHOUT Synthetic Opioids,2019,3465
+  Female,2019,2161
+  Male,2019,1304
+  Total Overdose Deaths,2020,91799
+  Female,2020,28071
+  Male,2020,63728
+ Any Opioid,2020,68630
+  Female,2020,19970
+  Male,2020,48660
+ Prescription Opioids,2020,16416
+  Female,2020,6441
+  Male,2020,9975
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2020,8626
+  Female,2020,2798
+  Male,2020,5828
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2020,7790
+  Female,2020,3643
+  Male,2020,4147
+ Synthetic Opioids(primarily fentanyl),2020,56516
+  Female,2020,15250
+  Male,2020,41266
+Heroin,2020,13165
+  Female,2020,3284
+  Male,2020,9881
+Heroin AND Synthetic Opioids,2020,8990
+  Female,2020,2294
+  Male,2020,6696
+Heroin WITHOUT Synthetic Opioids,2020,4175
+  Female,2020,990
+  Male,2020,3185
+Stimulants,2020,40643
+  Female,2020,11338
+  Male,2020,29305
+ Stimulants AND Any Opioid,2020,27966
+  Female,2020,7919
+  Male,2020,20047
+ Stimulants WITHOUT Any Opioid,2020,12677
+  Female,2020,3419
+  Male,2020,9258
+ Stimulants AND Synthetic Opioids,2020,23782
+  Female,2020,6631
+  Male,2020,17151
+ Stimulants WITHOUT Synthetic Opioids,2020,16861
+  Female,2020,4707
+  Male,2020,12154
+ Cocaine,2020,19447
+  Female,2020,5245
+  Male,2020,14202
+ Cocaine AND Any Opioid,2020,15338
+  Female,2020,4193
+  Male,2020,11145
+ Cocaine WITHOUT Any Opioid,2020,4109
+  Female,2020,1052
+  Male,2020,3057
+ Cocaine AND Synthetic Opioids,2020,13903
+  Female,2020,3752
+  Male,2020,10151
+ Cocaine WITHOUT Synthetic Opioids,2020,5544
+  Female,2020,1493
+  Male,2020,4051
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2020,11717
+  Female,2020,3461
+  Male,2020,8256
+ Benzodiazepines,2020,12290
+Female ,2020,4810
+Male,2020,7480
+ Benzodiazepines AND Any Opioid,2020,10771
+  Female,2020,4108
+  Male,2020,6663
+ Benzodiazepines WITHOUT Any Opioid,2020,1519
+  Female,2020,702
+  Male,2020,817
+Benzodiazepines AND Synthetic Opioids,2020,7983
+  Female,2020,2733
+  Male,2020,5250
+Benzodiazepines WITHOUT Synthetic Opioids,2020,4307
+  Female,2020,2077
+  Male,2020,2230
+Antidepressants,2020,5597
+Female ,2020,3122
+Male,2020,2475
+Antidepressants AND Any Opioid,2020,3611
+  Female,2020,1931
+  Male,2020,1680
+Antidepressants WITHOUT Any Opioid,2020,1986
+  Female,2020,1191
+  Male,2020,795
+Antidepressants AND Synthetic Opioids,2020,2387
+  Female,2020,1149
+  Male,2020,1238
+Antidepressants WITHOUT Synthetic Opioids,2020,3210
+  Female,2020,1973
+  Male,2020,1237
+  Total Overdose Deaths,2021,106699
+  Female,2021,32398
+  Male,2021,74301
+ Any Opioid,2021,80411
+  Female,2021,23654
+  Male,2021,56757
+ Prescription Opioids,2021,16706
+  Female,2021,6623
+  Male,2021,10083
+ Prescription Opioids AND Synthetic Opioids other than Methadone,2021,9644
+  Female,2021,6393
+  Male,2021,3251
+ Prescription Opioids WITHOUT Synthetic Opioids other than Methadone,2021,7062
+  Female,2021,230
+  Male,2021,6832
+ Synthetic Opioids(primarily fentanyl),2021,70601
+  Female,2021,19571
+  Male,2021,51030
+Heroin,2021,9173
+  Female,2021,2372
+  Male,2021,6801
+Heroin AND Synthetic Opioids,2021,6783
+  Female,2021,1791
+  Male,2021,4992
+Heroin WITHOUT Synthetic Opioids,2021,2390
+  Female,2021,581
+  Male,2021,1809
+Stimulants,2021,53495
+  Female,2021,15087
+  Male,2021,38408
+ Stimulants AND Any Opioid,2021,37682
+  Female,2021,10898
+  Male,2021,26784
+ Stimulants WITHOUT Any Opioid,2021,15813
+  Female,2021,4189
+  Male,2021,11624
+ Stimulants AND Synthetic Opioids,2021,34429
+  Female,2021,9799
+  Male,2021,24630
+ Stimulants WITHOUT Synthetic Opioids,2021,19066
+  Female,2021,5288
+  Male,2021,13778
+ Cocaine,2021,24486
+  Female,2021,6858
+  Male,2021,17628
+ Cocaine AND Any Opioid,2021,19250
+  Female,2021,5418
+  Male,2021,13832
+ Cocaine WITHOUT Any Opioid,2021,5236
+  Female,2021,1440
+  Male,2021,3796
+ Cocaine AND Synthetic Opioids,2021,18153
+  Female,2021,5071
+  Male,2021,13082
+ Cocaine WITHOUT Synthetic Opioids,2021,6333
+  Female,2021,1787
+  Male,2021,4546
+ Psychostimulants With Abuse Potential AND Synthetic Opioids,2021,18986
+  Female,2021,5498
+  Male,2021,13488
+ Benzodiazepines,2021,12499
+Female ,2021,5056
+Male,2021,7443
+ Benzodiazepines AND Any Opioid,2021,10992
+  Female,2021,4307
+  Male,2021,6685
+ Benzodiazepines WITHOUT Any Opioid,2021,1507
+  Female,2021,749
+  Male,2021,758
+Benzodiazepines AND Synthetic Opioids,2021,8759
+  Female,2021,3180
+  Male,2021,5579
+Benzodiazepines WITHOUT Synthetic Opioids,2021,3740
+  Female,2021,1876
+  Male,2021,1864
+Antidepressants,2021,5859
+Female ,2021,3343
+Male,2021,2516
+Antidepressants AND Any Opioid,2021,3767
+  Female,2021,2022
+  Male,2021,1745
+Antidepressants WITHOUT Any Opioid,2021,2092
+  Female,2021,1321
+  Male,2021,771
+Antidepressants AND Synthetic Opioids,2021,2721
+  Female,2021,1347
+  Male,2021,1374
+Antidepressants WITHOUT Synthetic Opioids,2021,3138
+  Female,2021,1996
+  Male,2021,1142

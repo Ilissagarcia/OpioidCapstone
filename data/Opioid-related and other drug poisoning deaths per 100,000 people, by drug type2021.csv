@@ -1,0 +1,78 @@
+﻿Indicator,"Opioid-related and other drug poisoning deaths per 100,000 people, by drug type"
+Source,"Centers for Disease Control and Prevention, National Center for Health Statistics via CDC WONDER Database.<br />
+<br />
+Suggested Citation:<br />
+<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE].<br />
+<br />"
+Notes,"Age-adjusted rates of drug-poisoning deaths, including those associated with certain opioids (natural and semi-synthetic opioids [e.g., hydrocodone, oxycodone], synthetic opioids [e.g., fentanyl], and heroin), and other selected drugs. Rates and standard errors obtained from the CDC WONDER Database using ICD-10 underlying cause-of-death codes X40&ndash;X44 (unintentional death), X60&ndash;X64 (suicide), X85 (homicide), and Y10&ndash;Y14 (death of undetermined intent) with multiple cause-of-death codes of T40.0 (opium), T40.1 (heroin), T40.2 (other opioids [i.e., natural and semi-synthetic opioids]), T40.3 (methadone), T40.4 (other synthetic opioids [i.e., those other than methadone]), T40.5 (cocaine) T40.6 (other and unspecified opioids) and T43.6 (psychostimulants with abuse potential). Deaths from specific types of drugs are not mutually exclusive (e.g., an overdose death may involve both heroin and synthetic opioids); because of that, death rates cannot be accurately summed across categories for a total rate. However, the categories all drugs and all opioids de-duplicate overdose death instances that involve multiple drugs. N/A indicates that data are suppressed because the rate is based on 20 or fewer deaths. In some years, deaths related to drug overdoses may be under-reported because of an unusually high number of death certificates with a cause listed as "pending" (e.g., Ohio and West Virginia in 2009). More information is available <a href="https://www.cdc.gov/nchs/data/nvsr/nvsr60/nvsr60_03.pdf">here</a>."
+Description,"Age-adjusted rates of deaths caused by drug poisoning (i.e., overdose), including those caused by natural and semi-synthetic opioids, synthetic opioids (non-methadone), the illegal opioid heroin, cocaine, and psychostimulants.<br />
+<br />
+Natural and semi-synthetic opioids: This category includes common prescription painkiller pills (e.g., hydrocodone and oxycodone). It includes deaths from painkillers that were legitimately manufactured, prescribed and sold, as well as those that may have been improperly prescribed or diverted from their intended source. It also may include deaths from &ldquo;counterfeit&rdquo; painkiller pills that were illicitly trafficked.<br />
+<br />
+Synthetic opioids: This category include synthetic opioids (e.g., fentanyl). However, it excludes methadone, a synthetic opioid that is used both as a painkiller and as a U.S. Food and Drug Administration-approved medication for treating opioid use disorder. It includes deaths from synthetic that were legitimately manufactured, prescribed and sold, as well as those that may have been improperly prescribed or diverted from their intended source. It also includes deaths from illicitly trafficked synthetic opioids, which may be sold inaccurately (i.e., sold as heroin when it actually is fentanyl) or combined with other drugs (i.e., mixed into heroin or counterfeit painkiller pills to increase their potency).<br />
+<br />
+Heroin: This category includes only heroin, which has no legal medical use in the United States and is exclusively trafficked illicitly. However, heroin may be mixed with other drugs (e.g., synthetic opioids).<br />
+<br />
+Cocaine: This category includes only cocaine, which is commonly used as an illicit recreational drug but also has some approved legal medical uses in the United States (e.g., as an anesthetic). Although cocaine is legally classified as a narcotic in the U.S., it is not pharmacologically an opioid. However, it is sometimes trafficked alongside or even mixed with illicit opioids such as heroin and fentanyl.<br />
+<br />
+Psychostimulants: This category includes various stimulant drugs, including legal prescription medications commonly used to treat attention deficit hyperactivity disorder (ADHD), such as Ritalin (methylphenidate) and Adderall (amphetamine); and methamphetamine, which has approved legal medical uses in the United States but is commonly illicitly manufactured and/or trafficked and used recreationally. Similar to prescription opioid painkillers, prescription psychostimulants are sometimes diverted from their intended medical use and abused. These psychostimulants are not opioids but are sometimes trafficked alongside or even mixed with illicit opioids such as heroin and fentanyl.<br />
+<br />
+All drugs: This category includes overdose deaths involving any drugs, including opioids, cocaine, psychostimulants and other drugs that aren't explicitly discussed (e.g., other prescription and over-the-counter medications, and other illicit substances). Note: This category uses the overdose underlying cause-of-death codes described above but does not specify any particular multiple cause-of-death codes.<br />
+<br />
+All opioids: This category includes overdose deaths involving any opioid, including natural and semi-synthetic opioids, synthetic opioids, heroin, as well as other opioids not broken out separately, such as opium, methadone, and other/unspecified opioids."
+
+
+Fips,Location,Drug Type,TimeFrame,Data Type,Data,MOE
+01,Alabama,All opioids,2021,"Rate per 100,000",21.1965,1.3518268548400001
+02,Alaska,All opioids,2021,"Rate per 100,000",27.58746,3.8720975902000001
+04,Arizona,All opioids,2021,"Rate per 100,000",28.81072,1.2840008314
+05,Arkansas,All opioids,2021,"Rate per 100,000",13.7373,1.3917105087199999
+06,California,All opioids,2021,"Rate per 100,000",17.80009,0.41769942591999998
+08,Colorado,All opioids,2021,"Rate per 100,000",21.66093,1.1976280257199998
+09,Connecticut,All opioids,2021,"Rate per 100,000",38.33637,2.0829928302400003
+10,Delaware,All opioids,2021,"Rate per 100,000",48.08375,4.5869589978800001
+11,Dist. of Columbia,All opioids,2021,"Rate per 100,000",48.93816,5.2349257702000003
+12,Florida,All opioids,2021,"Rate per 100,000",28.94702,0.75464271231999991
+13,Georgia,All opioids,2021,"Rate per 100,000",17.09975,0.80032317791999996
+15,Hawaii,All opioids,2021,"Rate per 100,000",6.09617,1.29215877868
+16,Idaho,All opioids,2021,"Rate per 100,000",12.7705,1.6580350323599999
+17,Illinois,All opioids,2021,"Rate per 100,000",23.66765,0.85849596616000001
+18,Indiana,All opioids,2021,"Rate per 100,000",34.16677,1.45179050044
+19,Iowa,All opioids,2021,"Rate per 100,000",8.60777,1.0675245075599999
+20,Kansas,All opioids,2021,"Rate per 100,000",15.70696,1.50003500472
+21,Kentucky,All opioids,2021,"Rate per 100,000",44.78792,2.0572663700399998
+22,Louisiana,All opioids,2021,"Rate per 100,000",30.5111,1.6635080167999998
+23,Maine,All opioids,2021,"Rate per 100,000",42.38112,3.6825131817600001
+24,Maryland,All opioids,2021,"Rate per 100,000",38.50845,1.5597668141999999
+25,Massachusetts,All opioids,2021,"Rate per 100,000",32.5419,1.3738164927200001
+26,Michigan,All opioids,2021,"Rate per 100,000",26.02704,1.0459500211999999
+27,Minnesota,All opioids,2021,"Rate per 100,000",17.88438,1.1376203971999999
+28,Mississippi,All opioids,2021,"Rate per 100,000",20.33647,1.7203818855999999
+29,Missouri,All opioids,2021,"Rate per 100,000",27.11442,1.36160769192
+30,Montana,All opioids,2021,"Rate per 100,000",11.09499,2.08357285108
+31,Nebraska,All opioids,2021,"Rate per 100,000",6.0392,1.1305419885199999
+32,Nevada,All opioids,2021,"Rate per 100,000",18.86832,1.5311356046
+33,New Hampshire,All opioids,2021,"Rate per 100,000",28.40658,2.9429433712000002
+34,New Jersey,All opioids,2021,"Rate per 100,000",28.57085,1.1102453202399998
+35,New Mexico,All opioids,2021,"Rate per 100,000",37.23476,2.7239702641200001
+36,New York,All opioids,2021,"Rate per 100,000",24.54528,0.70315283220000002
+37,North Carolina,All opioids,2021,"Rate per 100,000",33.30561,1.1488252624799999
+38,North Dakota,All opioids,2021,"Rate per 100,000",10.1672,2.3488316031600003
+39,Ohio,All opioids,2021,"Rate per 100,000",40.11089,1.20551828012
+40,Oklahoma,All opioids,2021,"Rate per 100,000",12.09001,1.1135084674
+41,Oregon,All opioids,2021,"Rate per 100,000",18.12927,1.29834345088
+42,Pennsylvania,All opioids,2021,"Rate per 100,000",32.83058,1.03463165624
+44,Rhode Island,All opioids,2021,"Rate per 100,000",35.94074,3.6857158080399999
+45,South Carolina,All opioids,2021,"Rate per 100,000",34.96231,1.69309172368
+46,South Dakota,All opioids,2021,"Rate per 100,000",5.65278,1.6666367726399998
+47,Tennessee,All opioids,2021,"Rate per 100,000",45.46233,1.6488828417599999
+48,Texas,All opioids,2021,"Rate per 100,000",9.37232,0.35200675859999997
+49,Utah,All opioids,2021,"Rate per 100,000",14.08135,1.32124990816
+50,Vermont,All opioids,2021,"Rate per 100,000",37.40703,5.0843904554799995
+51,Virginia,All opioids,2021,"Rate per 100,000",25.99295,1.0969575218000001
+53,Washington,All opioids,2021,"Rate per 100,000",20.47793,1.0136652794800001
+54,West Virginia,All opioids,2021,"Rate per 100,000",77.24945,4.3879664424399998
+55,Wisconsin,All opioids,2021,"Rate per 100,000",25.9122,1.3707022526399999
+56,Wyoming,All opioids,2021,"Rate per 100,000",12.42854,2.96588526724
+US,United States,All opioids,2021,"Rate per 100,000",24.67277,0.17377835888000001
